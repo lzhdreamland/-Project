@@ -6,9 +6,9 @@
 //  Copyright © 2016 ZihaoLin. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "DDRichTextViewController.h"
 
-@interface FirstViewController : UIViewController
+@interface MainViewController : DDRichTextViewController
 
 
 @end
